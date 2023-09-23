@@ -23,23 +23,12 @@ function query(filterBy = {}) {
             toysToDisplay = toysToDisplay.filter(toy => toy.inStock === true)
         }
     }
-    // toysToDisplay = getSortedToys(toys, sortBy)
-    return Promise.resolve(toysToDisplay)
-}
-
-function getSortedToys(toysToSort, sortBy) {
-    if (sortBy.type === 'name') {
-        toysToSort.sort((b1, b2) => {
-            const title1 = b1.name.toLowerCase()
-            const title2 = b2.name.toLowerCase()
-            return sortBy.desc * title2.localeCompare(title1)
+    if (filterBy.labels && filterBy.labels[0]) {
+        toysToDisplay = toysToDisplay.filter(toy => {
+            return toy.labels.some(label => filterBy.labels.includes(label))
         })
-    } else {
-        toysToSort.sort(
-            (b1, b2) => sortBy.desc * (b2[sortBy.type] - b1[sortBy.type])
-        )
     }
-    return toysToSort
+    return Promise.resolve(toysToDisplay)
 }
 
 function get(toyId) {
