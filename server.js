@@ -28,8 +28,13 @@ app.use(express.static('public'))
 
 // **************** Toys API ****************:
 app.get('/api/toy', (req, res) => {
-    const { txt, inStock, labels } = req.query
-    const filterBy = { txt, inStock, labels }
+    const { txt, inStock, labels, pageIdx } = req.query
+    const filterBy = {
+        txt,
+        inStock,
+        labels,
+        pageIdx: pageIdx ? +pageIdx : undefined
+    }
     toyService.query(filterBy)
         .then(toys => {
             res.send(toys)

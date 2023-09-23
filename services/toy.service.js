@@ -1,6 +1,7 @@
 import fs from 'fs'
 import { utilService } from "./util.service.js"
 
+const PAGE_SIZE = 5
 const toys = utilService.readJsonFile('data/toy.json')
 
 export const toyService = {
@@ -27,6 +28,10 @@ function query(filterBy = {}) {
         toysToDisplay = toysToDisplay.filter(toy => {
             return toy.labels.some(label => filterBy.labels.includes(label))
         })
+    }
+    if (filterBy.pageIdx !== undefined) {
+        let startIdx = filterBy.pageIdx * PAGE_SIZE
+        toysToDisplay = toysToDisplay.slice(startIdx, startIdx + PAGE_SIZE)
     }
     return Promise.resolve(toysToDisplay)
 }
