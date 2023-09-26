@@ -33,11 +33,26 @@ function query(filterBy = {}) {
         let startIdx = filterBy.pageIdx * PAGE_SIZE
         toysToDisplay = toysToDisplay.slice(startIdx, startIdx + PAGE_SIZE)
     }
+    return new Promise((resolve, reject) => {
+        setTimeout(() => {
+            resolve(toysToDisplay)
+        }, 500)
+    })
     return Promise.resolve(toysToDisplay)
 }
 
 function get(toyId) {
     const toy = toys.find(toy => toy._id === toyId)
+    return new Promise((resolve, reject) => {
+        setTimeout(() => {
+            const toy = toys.find(toy => toy._id === toyId)
+            if (!toy) {
+                reject('Toy not found');
+            } else {
+                resolve(toy)
+            }
+        }, 500)
+    })
     if (!toy) return Promise.reject('Toy not found')
     return Promise.resolve(toy)
 }
