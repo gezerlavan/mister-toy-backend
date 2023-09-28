@@ -36,7 +36,7 @@ function query(filterBy = {}) {
     return new Promise((resolve, reject) => {
         setTimeout(() => {
             resolve(toysToDisplay)
-        }, 500)
+        }, 300)
     })
     return Promise.resolve(toysToDisplay)
 }
@@ -51,7 +51,7 @@ function get(toyId) {
             } else {
                 resolve(toy)
             }
-        }, 500)
+        }, 300)
     })
     if (!toy) return Promise.reject('Toy not found')
     return Promise.resolve(toy)
