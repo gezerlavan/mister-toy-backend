@@ -1,4 +1,4 @@
 export default {
-    dbURL: 'mongodb+srv://theUser:thePass@cluster0-klgzh.mongodb.net/test?retryWrites=true&w=majority',
+    dbURL: `mongodb+srv://talelias:${process.env.MONGO_KEY}@cluster0.xhjibjv.mongodb.net/?retryWrites=true&w=majority`,
     dbName: 'mister-toy',
 }

@@ -2064,3 +2064,525 @@
 1.10.2023, 17:44:28 - INFO - Server is running on port: 3030 
 1.10.2023, 17:48:03 - INFO - server.js loaded... 
 1.10.2023, 17:48:03 - INFO - Server is running on port: 3030 
+1.10.2023, 17:49:08 - INFO - Req was made | / 
+1.10.2023, 17:49:08 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 17:49:14 - DEBUG - auth.service - login with username: lol 
+1.10.2023, 17:49:14 - INFO - User login:  | {"_id":"65197506b7dbc6427004cbad","username":"lol","fullname":"lol","isAdmin":false,"score":1000} 
+1.10.2023, 17:49:16 - INFO - Req was made | / 
+1.10.2023, 17:49:16 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":1} 
+1.10.2023, 17:49:16 - INFO - Req was made | / 
+1.10.2023, 17:49:16 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":2} 
+1.10.2023, 17:49:16 - INFO - Req was made | / 
+1.10.2023, 17:49:16 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":3} 
+1.10.2023, 17:49:23 - INFO - Req was made | / 
+1.10.2023, 17:49:23 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 17:49:25 - INFO - Req was made | / 
+1.10.2023, 17:49:25 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":1} 
+1.10.2023, 17:49:25 - INFO - Req was made | / 
+1.10.2023, 17:49:25 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":2} 
+1.10.2023, 17:49:25 - INFO - Req was made | / 
+1.10.2023, 17:49:25 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":3} 
+1.10.2023, 17:51:42 - INFO - Req was made | / 
+1.10.2023, 17:51:42 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":3} 
+1.10.2023, 17:51:49 - DEBUG - auth.service - login with username: lol 
+1.10.2023, 17:51:49 - INFO - User login:  | {"_id":"65197506b7dbc6427004cbad","username":"lol","fullname":"lol","isAdmin":false,"score":1000} 
+1.10.2023, 17:51:57 - INFO - Req was made | / 
+1.10.2023, 17:51:57 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 17:51:58 - INFO - Req was made | / 
+1.10.2023, 17:51:58 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":1} 
+1.10.2023, 17:51:58 - INFO - Req was made | / 
+1.10.2023, 17:51:58 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":2} 
+1.10.2023, 17:51:59 - INFO - Req was made | / 
+1.10.2023, 17:51:59 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":3} 
+1.10.2023, 17:52:27 - INFO - Req was made | / 
+1.10.2023, 17:52:27 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":3} 
+1.10.2023, 17:52:34 - INFO - Req was made | / 
+1.10.2023, 17:52:34 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 17:52:36 - INFO - Req was made | / 
+1.10.2023, 17:52:36 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":1} 
+1.10.2023, 17:52:37 - INFO - Req was made | / 
+1.10.2023, 17:52:37 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":2} 
+1.10.2023, 17:52:38 - INFO - Req was made | / 
+1.10.2023, 17:52:38 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":3} 
+1.10.2023, 17:52:57 - INFO - Req was made | / 
+1.10.2023, 17:52:57 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":3} 
+1.10.2023, 17:55:25 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":3} 
+1.10.2023, 17:55:25 - INFO - Req was made | / 
+1.10.2023, 17:55:29 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 17:55:29 - INFO - Req was made | / 
+1.10.2023, 17:55:30 - INFO - Req was made | / 
+1.10.2023, 17:55:30 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":1} 
+1.10.2023, 17:55:31 - INFO - Req was made | / 
+1.10.2023, 17:55:31 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 17:55:39 - INFO - Req was made | / 
+1.10.2023, 17:55:39 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 17:56:37 - INFO - Req was made | / 
+1.10.2023, 17:56:37 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 17:56:41 - INFO - Req was made | / 
+1.10.2023, 17:56:41 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 17:56:50 - INFO - Req was made | / 
+1.10.2023, 17:56:50 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 17:58:43 - INFO - Req was made | / 
+1.10.2023, 17:58:43 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 17:58:52 - INFO - Req was made | / 
+1.10.2023, 17:58:52 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 17:59:06 - INFO - Req was made | / 
+1.10.2023, 17:59:06 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 17:59:07 - INFO - Req was made | / 
+1.10.2023, 17:59:07 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 17:59:13 - INFO - Req was made | / 
+1.10.2023, 17:59:13 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 17:59:20 - INFO - Req was made | / 
+1.10.2023, 17:59:20 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:01:29 - INFO - Req was made | / 
+1.10.2023, 18:01:29 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:02:03 - INFO - Req was made | / 
+1.10.2023, 18:02:03 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:02:22 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:02:22 - INFO - Req was made | / 
+1.10.2023, 18:02:28 - INFO - Req was made | / 
+1.10.2023, 18:02:28 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:02:38 - INFO - Req was made | / 
+1.10.2023, 18:02:38 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:02:39 - INFO - Req was made | / 
+1.10.2023, 18:02:39 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:02:55 - INFO - Req was made | / 
+1.10.2023, 18:02:55 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:02:56 - INFO - Req was made | / 
+1.10.2023, 18:02:56 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:03:02 - INFO - Req was made | / 
+1.10.2023, 18:03:02 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:03:45 - INFO - Req was made | / 
+1.10.2023, 18:03:45 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:03:47 - INFO - Req was made | / 
+1.10.2023, 18:03:47 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":1} 
+1.10.2023, 18:03:49 - INFO - Req was made | / 
+1.10.2023, 18:03:49 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:03:54 - INFO - Req was made | / 
+1.10.2023, 18:03:54 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:03:57 - INFO - Req was made | / 
+1.10.2023, 18:03:57 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":1} 
+1.10.2023, 18:03:57 - INFO - Req was made | / 
+1.10.2023, 18:03:57 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":2} 
+1.10.2023, 18:03:57 - INFO - Req was made | / 
+1.10.2023, 18:03:57 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":3} 
+1.10.2023, 18:04:00 - INFO - Req was made | / 
+1.10.2023, 18:04:00 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:04:01 - INFO - Req was made | / 
+1.10.2023, 18:04:01 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":1} 
+1.10.2023, 18:04:01 - INFO - Req was made | / 
+1.10.2023, 18:04:01 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":2} 
+1.10.2023, 18:04:01 - INFO - Req was made | / 
+1.10.2023, 18:04:01 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":3} 
+1.10.2023, 18:04:02 - INFO - Req was made | / 
+1.10.2023, 18:04:02 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":2} 
+1.10.2023, 18:04:02 - INFO - Req was made | / 
+1.10.2023, 18:04:02 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":1} 
+1.10.2023, 18:04:02 - INFO - Req was made | / 
+1.10.2023, 18:04:02 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:04:03 - INFO - Req was made | / 
+1.10.2023, 18:04:03 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:04:35 - INFO - Req was made | / 
+1.10.2023, 18:04:35 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:04:45 - INFO - Req was made | / 
+1.10.2023, 18:04:45 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:05:25 - INFO - Req was made | / 
+1.10.2023, 18:05:25 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:05:26 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:05:26 - INFO - Req was made | / 
+1.10.2023, 18:07:04 - INFO - Req was made | / 
+1.10.2023, 18:07:04 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:07:05 - INFO - Req was made | / 
+1.10.2023, 18:07:05 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:07:13 - INFO - Req was made | / 
+1.10.2023, 18:07:13 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:07:22 - INFO - Req was made | / 
+1.10.2023, 18:07:22 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:08:08 - INFO - server.js loaded... 
+1.10.2023, 18:08:08 - INFO - Server is running on port: 3030 
+1.10.2023, 18:08:10 - INFO - server.js loaded... 
+1.10.2023, 18:08:10 - INFO - Server is running on port: 3030 
+1.10.2023, 18:08:11 - INFO - Req was made | / 
+1.10.2023, 18:08:11 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:08:12 - ERROR - Failed to remove toy | Failed to delete the toy. 
+1.10.2023, 18:08:16 - ERROR - Failed to remove toy | Failed to delete the toy. 
+1.10.2023, 18:08:20 - INFO - server.js loaded... 
+1.10.2023, 18:08:20 - INFO - Server is running on port: 3030 
+1.10.2023, 18:10:15 - INFO - Req was made | / 
+1.10.2023, 18:10:15 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:10:19 - INFO - Req was made | / 
+1.10.2023, 18:10:19 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":1} 
+1.10.2023, 18:10:26 - INFO - Req was made | / 
+1.10.2023, 18:10:26 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:10:27 - INFO - Req was made | / 
+1.10.2023, 18:10:27 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":1} 
+1.10.2023, 18:10:27 - INFO - Req was made | / 
+1.10.2023, 18:10:27 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":2} 
+1.10.2023, 18:10:28 - INFO - Req was made | / 
+1.10.2023, 18:10:28 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":3} 
+1.10.2023, 18:10:32 - INFO - Req was made | / 
+1.10.2023, 18:10:32 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:10:34 - INFO - Req was made | / 
+1.10.2023, 18:10:34 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":1} 
+1.10.2023, 18:10:34 - INFO - Req was made | / 
+1.10.2023, 18:10:34 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":2} 
+1.10.2023, 18:10:34 - INFO - Req was made | / 
+1.10.2023, 18:10:34 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":3} 
+1.10.2023, 18:10:37 - INFO - Req was made | / 
+1.10.2023, 18:10:37 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:14:04 - INFO - Req was made | / 
+1.10.2023, 18:14:04 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:14:07 - INFO - Req was made | / 
+1.10.2023, 18:14:07 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:14:08 - INFO - Req was made | / 
+1.10.2023, 18:14:08 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:14:08 - INFO - Req was made | / 
+1.10.2023, 18:14:08 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:14:13 - INFO - Req was made | / 
+1.10.2023, 18:14:13 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:14:13 - INFO - Req was made | / 
+1.10.2023, 18:14:13 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:14:20 - INFO - Req was made | / 
+1.10.2023, 18:14:20 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:14:21 - INFO - Req was made | / 
+1.10.2023, 18:14:21 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:14:43 - INFO - Req was made | / 
+1.10.2023, 18:14:43 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:14:47 - INFO - Req was made | / 
+1.10.2023, 18:14:47 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:14:48 - INFO - Req was made | / 
+1.10.2023, 18:14:48 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:14:54 - INFO - Req was made | / 
+1.10.2023, 18:14:54 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:15:01 - INFO - Req was made | / 
+1.10.2023, 18:15:01 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:15:04 - INFO - Req was made | / 
+1.10.2023, 18:15:04 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":1} 
+1.10.2023, 18:15:04 - INFO - Req was made | / 
+1.10.2023, 18:15:04 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":2} 
+1.10.2023, 18:15:04 - INFO - Req was made | / 
+1.10.2023, 18:15:04 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":3} 
+1.10.2023, 18:15:06 - INFO - Req was made | / 
+1.10.2023, 18:15:06 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:15:27 - INFO - Req was made | / 
+1.10.2023, 18:15:27 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:15:43 - INFO - Req was made | / 
+1.10.2023, 18:15:43 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:15:44 - INFO - Req was made | / 
+1.10.2023, 18:15:44 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":1} 
+1.10.2023, 18:15:44 - INFO - Req was made | / 
+1.10.2023, 18:15:44 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":2} 
+1.10.2023, 18:15:44 - INFO - Req was made | / 
+1.10.2023, 18:15:44 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":3} 
+1.10.2023, 18:15:47 - INFO - Req was made | / 
+1.10.2023, 18:15:47 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":2} 
+1.10.2023, 18:15:47 - INFO - Req was made | / 
+1.10.2023, 18:15:47 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":1} 
+1.10.2023, 18:15:47 - INFO - Req was made | / 
+1.10.2023, 18:15:47 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:15:53 - INFO - Req was made | / 
+1.10.2023, 18:15:53 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:16:12 - INFO - Req was made | / 
+1.10.2023, 18:16:12 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:16:13 - INFO - Req was made | / 
+1.10.2023, 18:16:13 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":1} 
+1.10.2023, 18:16:13 - INFO - Req was made | / 
+1.10.2023, 18:16:13 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":2} 
+1.10.2023, 18:16:13 - INFO - Req was made | / 
+1.10.2023, 18:16:13 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":3} 
+1.10.2023, 18:16:15 - INFO - Req was made | / 
+1.10.2023, 18:16:15 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:16:15 - INFO - Req was made | / 
+1.10.2023, 18:16:15 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:16:15 - INFO - Req was made | / 
+1.10.2023, 18:16:15 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:16:16 - INFO - Req was made | / 
+1.10.2023, 18:16:16 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":1} 
+1.10.2023, 18:16:16 - INFO - Req was made | / 
+1.10.2023, 18:16:16 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":2} 
+1.10.2023, 18:16:16 - INFO - Req was made | / 
+1.10.2023, 18:16:16 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":3} 
+1.10.2023, 18:16:17 - INFO - Req was made | / 
+1.10.2023, 18:16:17 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":2} 
+1.10.2023, 18:16:17 - INFO - Req was made | / 
+1.10.2023, 18:16:17 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":1} 
+1.10.2023, 18:16:17 - INFO - Req was made | / 
+1.10.2023, 18:16:17 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:16:23 - INFO - Req was made | / 
+1.10.2023, 18:16:23 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:16:27 - INFO - Req was made | / 
+1.10.2023, 18:16:27 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":1} 
+1.10.2023, 18:16:27 - INFO - Req was made | / 
+1.10.2023, 18:16:27 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":2} 
+1.10.2023, 18:16:27 - INFO - Req was made | / 
+1.10.2023, 18:16:27 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":3} 
+1.10.2023, 18:16:29 - INFO - Req was made | / 
+1.10.2023, 18:16:29 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:16:29 - INFO - Req was made | / 
+1.10.2023, 18:16:29 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:16:29 - INFO - Req was made | / 
+1.10.2023, 18:16:29 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:16:29 - INFO - Req was made | / 
+1.10.2023, 18:16:29 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:21:38 - INFO - Req was made | / 
+1.10.2023, 18:21:38 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:22:24 - INFO - Req was made | / 
+1.10.2023, 18:22:24 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:34:04 - INFO - Req was made | / 
+1.10.2023, 18:34:04 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:34:05 - INFO - Req was made | / 
+1.10.2023, 18:34:05 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:42:02 - INFO - Req was made | / 
+1.10.2023, 18:42:02 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:42:04 - INFO - Req was made | / 
+1.10.2023, 18:42:04 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:42:06 - INFO - Req was made | / 
+1.10.2023, 18:42:06 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":1} 
+1.10.2023, 18:42:06 - INFO - Req was made | / 
+1.10.2023, 18:42:06 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":2} 
+1.10.2023, 18:42:06 - INFO - Req was made | / 
+1.10.2023, 18:42:06 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":3} 
+1.10.2023, 18:42:07 - INFO - Req was made | / 
+1.10.2023, 18:42:07 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":2} 
+1.10.2023, 18:42:07 - INFO - Req was made | / 
+1.10.2023, 18:42:07 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":1} 
+1.10.2023, 18:42:07 - INFO - Req was made | / 
+1.10.2023, 18:42:07 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:42:13 - INFO - Req was made | / 
+1.10.2023, 18:42:13 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:42:58 - INFO - Req was made | / 
+1.10.2023, 18:42:58 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:43:15 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:43:15 - INFO - Req was made | / 
+1.10.2023, 18:43:16 - INFO - Req was made | / 
+1.10.2023, 18:43:16 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:43:17 - INFO - Req was made | / 
+1.10.2023, 18:43:17 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:43:29 - INFO - Req was made | / 
+1.10.2023, 18:43:29 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:45:08 - INFO - Req was made | / 
+1.10.2023, 18:45:08 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:45:11 - INFO - Req was made | / 
+1.10.2023, 18:45:11 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:45:13 - INFO - Req was made | / 
+1.10.2023, 18:45:13 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:45:14 - INFO - Req was made | / 
+1.10.2023, 18:45:14 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:45:15 - INFO - Req was made | / 
+1.10.2023, 18:45:15 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:45:16 - INFO - Req was made | / 
+1.10.2023, 18:45:16 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:45:17 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:45:17 - INFO - Req was made | / 
+1.10.2023, 18:45:18 - INFO - Req was made | / 
+1.10.2023, 18:45:18 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:45:18 - INFO - Req was made | / 
+1.10.2023, 18:45:18 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:45:20 - INFO - Req was made | / 
+1.10.2023, 18:45:20 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:45:20 - INFO - Req was made | / 
+1.10.2023, 18:45:20 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:45:22 - INFO - Req was made | / 
+1.10.2023, 18:45:22 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:45:23 - INFO - Req was made | / 
+1.10.2023, 18:45:23 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:45:23 - INFO - Req was made | / 
+1.10.2023, 18:45:23 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":1} 
+1.10.2023, 18:45:24 - INFO - Req was made | / 
+1.10.2023, 18:45:24 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":2} 
+1.10.2023, 18:45:24 - INFO - Req was made | / 
+1.10.2023, 18:45:24 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":3} 
+1.10.2023, 18:45:24 - INFO - Req was made | / 
+1.10.2023, 18:45:24 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":2} 
+1.10.2023, 18:45:24 - INFO - Req was made | / 
+1.10.2023, 18:45:24 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":1} 
+1.10.2023, 18:45:25 - INFO - Req was made | / 
+1.10.2023, 18:45:25 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:45:26 - INFO - Req was made | / 
+1.10.2023, 18:45:26 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:45:33 - INFO - Req was made | / 
+1.10.2023, 18:45:33 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:45:35 - INFO - Req was made | / 
+1.10.2023, 18:45:35 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:45:36 - INFO - Req was made | / 
+1.10.2023, 18:45:36 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 18:52:34 - INFO - server.js loaded... 
+1.10.2023, 18:52:35 - INFO - Server is running on port: 3030 
+1.10.2023, 19:22:25 - INFO - server.js loaded... 
+1.10.2023, 19:22:25 - INFO - Server is running on port: 3030 
+1.10.2023, 19:22:26 - INFO - server.js loaded... 
+1.10.2023, 19:22:26 - INFO - Server is running on port: 3030 
+1.10.2023, 19:23:19 - INFO - server.js loaded... 
+1.10.2023, 19:23:19 - INFO - Server is running on port: 3030 
+1.10.2023, 19:23:21 - INFO - Req was made | / 
+1.10.2023, 19:23:21 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 19:23:23 - INFO - Req was made | / 
+1.10.2023, 19:23:23 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":1} 
+1.10.2023, 19:23:24 - INFO - Req was made | / 
+1.10.2023, 19:23:24 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":2} 
+1.10.2023, 19:23:25 - INFO - Req was made | / 
+1.10.2023, 19:23:25 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":1} 
+1.10.2023, 19:23:25 - INFO - Req was made | / 
+1.10.2023, 19:23:25 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 19:23:27 - INFO - Req was made | / 
+1.10.2023, 19:23:27 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 19:26:02 - INFO - server.js loaded... 
+1.10.2023, 19:26:02 - INFO - Server is running on port: 3030 
+1.10.2023, 19:26:07 - INFO - Req was made | / 
+1.10.2023, 19:26:07 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 19:26:08 - INFO - Req was made | / 
+1.10.2023, 19:26:08 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 19:26:09 - INFO - Req was made | / 
+1.10.2023, 19:26:09 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 19:26:10 - INFO - Req was made | / 
+1.10.2023, 19:26:10 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 19:26:11 - INFO - Req was made | / 
+1.10.2023, 19:26:11 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 19:37:47 - INFO - server.js loaded... 
+1.10.2023, 19:37:47 - INFO - Server is running on port: 3030 
+1.10.2023, 19:41:39 - INFO - Req was made | / 
+1.10.2023, 19:41:39 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null} 
+1.10.2023, 19:41:44 - INFO - Req was made | / 
+1.10.2023, 19:42:37 - INFO - Req was made | / 
+1.10.2023, 19:42:53 - INFO - server.js loaded... 
+1.10.2023, 19:42:53 - INFO - Server is running on port: 3030 
+1.10.2023, 19:42:55 - INFO - Req was made | / 
+1.10.2023, 19:42:55 - ERROR - Failed to add review | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 19:43:27 - INFO - server.js loaded... 
+1.10.2023, 19:43:27 - INFO - Server is running on port: 3030 
+1.10.2023, 19:43:30 - INFO - Req was made | / 
+1.10.2023, 19:43:30 - ERROR - Failed to add review | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 19:43:44 - INFO - server.js loaded... 
+1.10.2023, 19:43:44 - INFO - Server is running on port: 3030 
+1.10.2023, 19:44:37 - INFO - server.js loaded... 
+1.10.2023, 19:44:37 - INFO - Server is running on port: 3030 
+1.10.2023, 19:45:52 - INFO - server.js loaded... 
+1.10.2023, 19:45:52 - INFO - Server is running on port: 3030 
+1.10.2023, 19:46:06 - INFO - server.js loaded... 
+1.10.2023, 19:46:06 - INFO - Server is running on port: 3030 
+1.10.2023, 19:47:21 - INFO - Req was made | / 
+1.10.2023, 19:47:24 - INFO - Req was made | / 
+1.10.2023, 19:47:37 - INFO - Req was made | / 
+1.10.2023, 19:47:50 - INFO - server.js loaded... 
+1.10.2023, 19:47:50 - INFO - Server is running on port: 3030 
+1.10.2023, 19:47:54 - INFO - Req was made | / 
+1.10.2023, 19:47:54 - ERROR - Failed to add review | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 19:48:40 - INFO - Req was made | / 
+1.10.2023, 19:48:40 - ERROR - Failed to add review | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 19:49:01 - INFO - server.js loaded... 
+1.10.2023, 19:49:01 - INFO - Server is running on port: 3030 
+1.10.2023, 19:50:06 - INFO - Req was made | / 
+1.10.2023, 19:50:06 - ERROR - Failed to add review | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 19:50:17 - INFO - Req was made | / 
+1.10.2023, 19:50:17 - ERROR - Failed to add review | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 19:50:28 - INFO - Req was made | / 
+1.10.2023, 19:50:28 - ERROR - Failed to add review | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 19:52:23 - INFO - server.js loaded... 
+1.10.2023, 19:52:23 - INFO - Server is running on port: 3030 
+1.10.2023, 19:52:24 - INFO - server.js loaded... 
+1.10.2023, 19:52:24 - INFO - Server is running on port: 3030 
+1.10.2023, 19:53:18 - INFO - server.js loaded... 
+1.10.2023, 19:53:18 - INFO - Server is running on port: 3030 
+1.10.2023, 19:53:21 - INFO - Req was made | / 
+1.10.2023, 19:53:21 - ERROR - Failed to add review | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 19:55:46 - INFO - Req was made | / 
+1.10.2023, 19:55:46 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 19:55:49 - INFO - Req was made | / 
+1.10.2023, 19:55:49 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 19:55:53 - INFO - Req was made | / 
+1.10.2023, 19:55:54 - INFO - Req was made | / 
+1.10.2023, 19:56:28 - INFO - server.js loaded... 
+1.10.2023, 19:56:28 - INFO - Server is running on port: 3030 
+1.10.2023, 19:56:35 - INFO - Req was made | / 
+1.10.2023, 19:56:35 - ERROR - Failed to add review | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 19:57:37 - DEBUG - auth.service - login with username: tal 
+1.10.2023, 19:57:37 - INFO - User login:  | {"_id":"651801a0fee11242289016b0","username":"tal","fullname":"tal","isAdmin":true,"score":1000} 
+1.10.2023, 19:57:45 - INFO - Req was made | / 
+1.10.2023, 19:57:49 - INFO - Req was made | / 
+1.10.2023, 19:57:49 - ERROR - Failed to add review | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 19:58:21 - INFO - server.js loaded... 
+1.10.2023, 19:58:21 - INFO - Server is running on port: 3030 
+1.10.2023, 19:58:23 - INFO - Req was made | / 
+1.10.2023, 19:58:23 - ERROR - Failed to add review | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 19:58:37 - INFO - server.js loaded... 
+1.10.2023, 19:58:37 - INFO - Server is running on port: 3030 
+1.10.2023, 19:58:41 - INFO - Req was made | / 
+1.10.2023, 19:58:41 - ERROR - Failed to add review | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 19:58:46 - INFO - server.js loaded... 
+1.10.2023, 19:58:46 - INFO - Server is running on port: 3030 
+1.10.2023, 19:58:49 - INFO - Req was made | / 
+1.10.2023, 19:58:49 - ERROR - Failed to add review | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 19:59:03 - INFO - server.js loaded... 
+1.10.2023, 19:59:03 - INFO - Server is running on port: 3030 
+1.10.2023, 19:59:05 - INFO - Req was made | / 
+1.10.2023, 19:59:05 - ERROR - Failed to add review | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 19:59:30 - INFO - server.js loaded... 
+1.10.2023, 19:59:30 - INFO - Server is running on port: 3030 
+1.10.2023, 19:59:32 - INFO - Req was made | / 
+1.10.2023, 19:59:32 - ERROR - Failed to add review | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 20:00:12 - INFO - server.js loaded... 
+1.10.2023, 20:00:12 - INFO - Server is running on port: 3030 
+1.10.2023, 20:00:33 - INFO - Req was made | / 
+1.10.2023, 20:00:33 - ERROR - Failed to add review | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 20:02:55 - INFO - server.js loaded... 
+1.10.2023, 20:02:55 - INFO - Server is running on port: 3030 
+1.10.2023, 20:03:04 - INFO - Req was made | / 
+1.10.2023, 20:03:04 - ERROR - Failed to add review | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 20:07:00 - INFO - server.js loaded... 
+1.10.2023, 20:07:00 - INFO - Server is running on port: 3030 
+1.10.2023, 20:07:06 - INFO - Req was made | / 
+1.10.2023, 20:07:08 - INFO - Req was made | / 
+1.10.2023, 20:07:33 - INFO - Req was made | / 
+1.10.2023, 20:07:33 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 20:09:10 - INFO - server.js loaded... 
+1.10.2023, 20:09:10 - INFO - Server is running on port: 3030 
+1.10.2023, 20:09:47 - INFO - server.js loaded... 
+1.10.2023, 20:09:47 - INFO - Server is running on port: 3030 
+1.10.2023, 20:09:53 - INFO - Req was made | / 
+1.10.2023, 20:10:11 - INFO - Req was made | / 
+1.10.2023, 20:10:11 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 20:10:12 - INFO - Req was made | / 
+1.10.2023, 20:10:12 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 20:10:12 - INFO - Req was made | / 
+1.10.2023, 20:10:12 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 20:10:12 - INFO - Req was made | / 
+1.10.2023, 20:10:12 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 20:10:12 - INFO - Req was made | / 
+1.10.2023, 20:10:12 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 20:10:13 - INFO - Req was made | / 
+1.10.2023, 20:10:13 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 20:10:13 - INFO - Req was made | / 
+1.10.2023, 20:10:13 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 20:10:13 - INFO - Req was made | / 
+1.10.2023, 20:10:13 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 20:10:13 - INFO - Req was made | / 
+1.10.2023, 20:10:13 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 20:10:14 - INFO - Req was made | / 
+1.10.2023, 20:10:14 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 20:10:14 - INFO - Req was made | / 
+1.10.2023, 20:10:14 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 20:10:37 - INFO - server.js loaded... 
+1.10.2023, 20:10:37 - INFO - Server is running on port: 3030 
+1.10.2023, 20:10:44 - INFO - Req was made | / 
+1.10.2023, 20:10:44 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 20:10:45 - INFO - Req was made | / 
+1.10.2023, 20:10:45 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 20:10:49 - INFO - Req was made | / 
+1.10.2023, 20:10:53 - INFO - Req was made | / 
+1.10.2023, 20:12:14 - INFO - Req was made | / 
+1.10.2023, 20:12:14 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+1.10.2023, 20:12:30 - INFO - Req was made | / 
+1.10.2023, 20:12:40 - INFO - Req was made | / 
+1.10.2023, 20:12:48 - INFO - Req was made | / 
+1.10.2023, 20:15:19 - INFO - Req was made | / 
+1.10.2023, 20:15:43 - INFO - Req was made | / 
+1.10.2023, 20:15:51 - INFO - Req was made | / 
+1.10.2023, 20:16:22 - INFO - Req was made | / 
+1.10.2023, 20:16:54 - INFO - server.js loaded... 
+1.10.2023, 20:16:54 - INFO - Server is running on port: 3030 
+1.10.2023, 20:16:56 - INFO - Req was made | / 
+1.10.2023, 20:17:01 - INFO - server.js loaded... 
+1.10.2023, 20:17:01 - INFO - Server is running on port: 3030 
+1.10.2023, 20:17:08 - INFO - Req was made | / 
+1.10.2023, 20:17:32 - INFO - Req was made | / 
+1.10.2023, 20:17:32 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null} 
