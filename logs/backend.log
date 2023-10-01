@@ -2594,3 +2594,51 @@
 2.10.2023, 0:32:25 - INFO - Server is running on port: 3030 
 2.10.2023, 0:32:32 - INFO - server.js loaded... 
 2.10.2023, 0:32:33 - INFO - Server is running on port: 3030 
+2.10.2023, 0:39:25 - INFO - server.js loaded... 
+2.10.2023, 0:39:25 - INFO - Server is running on port: 3030 
+2.10.2023, 0:39:41 - INFO - Req was made | / 
+2.10.2023, 0:39:41 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+2.10.2023, 0:39:41 - ERROR - cannot find toys | ReferenceError: logger is not defined 
+2.10.2023, 0:39:41 - ERROR - Failed to get toys | ReferenceError: logger is not defined 
+2.10.2023, 0:39:44 - INFO - Req was made | / 
+2.10.2023, 0:39:44 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+2.10.2023, 0:39:45 - ERROR - cannot find toys | ReferenceError: logger is not defined 
+2.10.2023, 0:39:45 - ERROR - Failed to get toys | ReferenceError: logger is not defined 
+2.10.2023, 0:40:03 - INFO - server.js loaded... 
+2.10.2023, 0:40:03 - INFO - Server is running on port: 3030 
+2.10.2023, 0:40:04 - INFO - Req was made | / 
+2.10.2023, 0:40:04 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+2.10.2023, 0:40:08 - INFO - Req was made | / 
+2.10.2023, 0:40:08 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+2.10.2023, 0:40:11 - INFO - Req was made | / 
+2.10.2023, 0:40:11 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+2.10.2023, 0:40:20 - INFO - server.js loaded... 
+2.10.2023, 0:40:20 - INFO - Server is running on port: 3030 
+2.10.2023, 0:40:21 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+2.10.2023, 0:40:21 - INFO - Req was made | / 
+2.10.2023, 0:40:24 - INFO - Req was made | / 
+2.10.2023, 0:40:24 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+2.10.2023, 0:40:29 - INFO - server.js loaded... 
+2.10.2023, 0:40:29 - INFO - Server is running on port: 3030 
+2.10.2023, 0:40:30 - INFO - Req was made | / 
+2.10.2023, 0:40:30 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+2.10.2023, 0:40:32 - INFO - Req was made | / 
+2.10.2023, 0:40:32 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+2.10.2023, 0:40:36 - INFO - server.js loaded... 
+2.10.2023, 0:40:36 - INFO - Server is running on port: 3030 
+2.10.2023, 0:40:37 - INFO - Req was made | / 
+2.10.2023, 0:40:37 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+2.10.2023, 0:40:44 - INFO - server.js loaded... 
+2.10.2023, 0:40:44 - INFO - Server is running on port: 3030 
+2.10.2023, 0:40:44 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+2.10.2023, 0:40:44 - INFO - Req was made | / 
+2.10.2023, 0:42:54 - INFO - server.js loaded... 
+2.10.2023, 0:42:54 - INFO - Server is running on port: 3030 
+2.10.2023, 0:42:56 - INFO - Req was made | / 
+2.10.2023, 0:42:56 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+2.10.2023, 0:43:10 - INFO - server.js loaded... 
+2.10.2023, 0:43:10 - INFO - Server is running on port: 3030 
+2.10.2023, 0:43:12 - INFO - Req was made | / 
+2.10.2023, 0:43:12 - DEBUG - Getting Toys | {"txt":"","inStock":null,"labels":null,"pageIdx":0} 
+2.10.2023, 0:43:20 - INFO - server.js loaded... 
+2.10.2023, 0:43:20 - INFO - Server is running on port: 3030 
