@@ -3,6 +3,7 @@ import { logger } from '../../services/logger.service.js'
 import { userService } from '../user/user.service.js'
 import { authService } from '../auth/auth.service.js'
 import { reviewService } from './review.service.js'
+import { toyService } from '../toy/toy.service.js'
 
 export async function getReviews(req, res) {
     try {
@@ -31,15 +32,15 @@ export async function deleteReview(req, res) {
 
 export async function addReview(req, res) {
 
-    var { loggedinUser } = req
-
+    let { loggedinUser } = req
+    
     try {
         var review = req.body
         review.byUserId = loggedinUser._id
         review = await reviewService.add(review)
 
         // prepare the updated review for sending out
-        review.aboutToy = await userService.getById(review.aboutToyId)
+        review.aboutToy = await toyService.getById(review.aboutToyId)
 
         // Give the user credit for adding a review
         // var user = await userService.getById(review.byUserId)
@@ -59,7 +60,7 @@ export async function addReview(req, res) {
         // socketService.broadcast({type: 'review-added', data: review, userId: loggedinUser._id})
         // socketService.emitToUser({type: 'review-about-you', data: review, userId: review.aboutToy._id})
 
-        const fullUser = await userService.getById(loggedinUser._id)
+        // const fullUser = await userService.getById(loggedinUser._id)
         // socketService.emitTo({type: 'user-updated', data: fullUser, label: fullUser._id})
 
         res.send(review)
